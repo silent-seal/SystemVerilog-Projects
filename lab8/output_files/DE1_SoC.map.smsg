@@ -1,0 +1,6 @@
+Warning (18236): Number of processors has not been specified which may cause overloading on shared machines.  Set the global assignment NUM_PARALLEL_PROCESSORS in your QSF to an appropriate value for best performance.
+Info (10281): Verilog HDL Declaration information at winning.sv(14): object "one" differs only in case from object "ONE" in the same scope File: U:/ee271labs/lab8/winning.sv Line: 14
+Info (10281): Verilog HDL Declaration information at winning.sv(14): object "two" differs only in case from object "TWO" in the same scope File: U:/ee271labs/lab8/winning.sv Line: 14
+Info (10281): Verilog HDL Declaration information at winning.sv(14): object "none" differs only in case from object "NONE" in the same scope File: U:/ee271labs/lab8/winning.sv Line: 14
+Warning (10030): Net "SYSTEM_CLOCK" at DE1_SoC.sv(52) has no driver or initial value, using a default initial value '0' File: U:/ee271labs/lab8/DE1_SoC.sv Line: 52
+Warning (10034): Output port "LEDR" at DE1_SoC.sv(7) has no driver File: U:/ee271labs/lab8/DE1_SoC.sv Line: 7

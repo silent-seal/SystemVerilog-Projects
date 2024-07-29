@@ -1,0 +1,63 @@
+# Reading C:/intelFPGA_lite/17.0/modelsim_ase/tcl/vsim/pref.tcl
+do runlab.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 14:30:27 on Apr 24,2024
+# vlog -reportprogress 300 ./DE1_SoC.sv 
+# -- Compiling module DE1_SoC
+# -- Compiling module DE1_SoC_testbench
+# 
+# Top level modules:
+# 	DE1_SoC_testbench
+# End time: 14:30:28 on Apr 24,2024, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# vsim -voptargs=""+acc"" -t 1ps -lib work DE1_SoC_testbench 
+# Start time: 14:30:29 on Apr 24,2024
+# Loading sv_std.std
+# Loading work.DE1_SoC_testbench
+# Loading work.DE1_SoC
+# ** Warning: (vsim-WLF-5000) WLF file currently in use: vsim.wlf
+#           File in use by: jjhgr  Hostname: JUNWIN  ProcessID: 9600
+#           Attempting to use alternate WLF file "./wlftzrh1m2".
+# ** Warning: (vsim-WLF-5001) Could not open WLF file: vsim.wlf
+#           Using alternate file: ./wlftzrh1m2
+# .main_pane.wave.interior.cs.body.pw.wf
+# .main_pane.structure.interior.cs.body.struct
+# .main_pane.objects.interior.cs.body.tree
+add wave -position end  sim:/DE1_SoC_testbench/HEX0
+add wave -position end  sim:/DE1_SoC_testbench/HEX5
+add wave -position end  sim:/DE1_SoC_testbench/HEX0
+add wave -position end  sim:/DE1_SoC_testbench/HEX1
+add wave -position end  sim:/DE1_SoC_testbench/HEX2
+add wave -position end  sim:/DE1_SoC_testbench/HEX3
+add wave -position end  sim:/DE1_SoC_testbench/HEX4
+add wave -position end  sim:/DE1_SoC_testbench/HEX5
+write format wave -window .main_pane.wave.interior.cs.body.pw.wf U:/ee271labs/lab4_part2/DE1_SoC.do
+
+do runlab.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 14:36:03 on Apr 24,2024
+# vlog -reportprogress 300 ./DE1_SoC.sv 
+# -- Compiling module DE1_SoC
+# -- Compiling module DE1_SoC_testbench
+# 
+# Top level modules:
+# 	DE1_SoC_testbench
+# End time: 14:36:03 on Apr 24,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# End time: 14:36:05 on Apr 24,2024, Elapsed time: 0:05:36
+# Errors: 0, Warnings: 2
+# vsim -voptargs=""+acc"" -t 1ps -lib work DE1_SoC_testbench 
+# Start time: 14:36:06 on Apr 24,2024
+# Loading sv_std.std
+# Loading work.DE1_SoC_testbench
+# Loading work.DE1_SoC
+# ** Warning: (vsim-WLF-5000) WLF file currently in use: vsim.wlf
+#           File in use by: jjhgr  Hostname: JUNWIN  ProcessID: 9600
+#           Attempting to use alternate WLF file "./wlftrba2xc".
+# ** Warning: (vsim-WLF-5001) Could not open WLF file: vsim.wlf
+#           Using alternate file: ./wlftrba2xc
+# .main_pane.wave.interior.cs.body.pw.wf
+# .main_pane.structure.interior.cs.body.struct
+# .main_pane.objects.interior.cs.body.tree
