@@ -1,0 +1,107 @@
+# Reading C:/intelFPGA_lite/17.0/modelsim_ase/tcl/vsim/pref.tcl
+do runlab.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 17:08:21 on May 29,2024
+# vlog -reportprogress 300 ./DE1_SoC.sv 
+# -- Compiling module DE1_SoC
+# -- Compiling module DE1_SoC_testbench
+# 
+# Top level modules:
+# 	DE1_SoC_testbench
+# End time: 17:08:22 on May 29,2024, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 17:08:22 on May 29,2024
+# vlog -reportprogress 300 ./playGame.sv 
+# -- Compiling module playGame
+# -- Compiling module playGame_testbench
+# 
+# Top level modules:
+# 	playGame_testbench
+# End time: 17:08:23 on May 29,2024, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 17:08:23 on May 29,2024
+# vlog -reportprogress 300 ./clock_divider.sv 
+# -- Compiling module clock_divider
+# 
+# Top level modules:
+# 	clock_divider
+# End time: 17:08:24 on May 29,2024, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 17:08:24 on May 29,2024
+# vlog -reportprogress 300 ./ledMatrixDriver.sv 
+# -- Compiling module ledMatrixDriver
+# -- Compiling module ledMatrixDriver_testbench
+# 
+# Top level modules:
+# 	ledMatrixDriver_testbench
+# End time: 17:08:24 on May 29,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 17:08:24 on May 29,2024
+# vlog -reportprogress 300 ./ledDisplay.sv 
+# -- Compiling module ledDisplay
+# ** Error: ./ledDisplay.sv(11): (vlog-2110) Illegal reference to net "HEX5".
+# ** Error: ./ledDisplay.sv(12): (vlog-2110) Illegal reference to net "HEX4".
+# ** Error: ./ledDisplay.sv(13): (vlog-2110) Illegal reference to net "HEX3".
+# ** Error: ./ledDisplay.sv(14): (vlog-2110) Illegal reference to net "HEX2".
+# ** Error: ./ledDisplay.sv(15): (vlog-2110) Illegal reference to net "HEX1".
+# ** Error: ./ledDisplay.sv(16): (vlog-2110) Illegal reference to net "HEX0".
+# ** Error: ./ledDisplay.sv(20): (vlog-2110) Illegal reference to net "HEX5".
+# ** Error: ./ledDisplay.sv(21): (vlog-2110) Illegal reference to net "HEX4".
+# ** Error: ./ledDisplay.sv(22): (vlog-2110) Illegal reference to net "HEX3".
+# ** Error: ./ledDisplay.sv(23): (vlog-2110) Illegal reference to net "HEX2".
+# ** Error: ./ledDisplay.sv(24): (vlog-2110) Illegal reference to net "HEX1".
+# ** Error: ./ledDisplay.sv(25): (vlog-2110) Illegal reference to net "HEX0".
+# ** Error: ./ledDisplay.sv(29): (vlog-2110) Illegal reference to net "HEX5".
+# ** Error: ./ledDisplay.sv(30): (vlog-2110) Illegal reference to net "HEX4".
+# ** Error: ./ledDisplay.sv(31): (vlog-2110) Illegal reference to net "HEX3".
+# ** Error: ./ledDisplay.sv(32): (vlog-2110) Illegal reference to net "HEX2".
+# ** Error: ./ledDisplay.sv(33): (vlog-2110) Illegal reference to net "HEX1".
+# ** Error: ./ledDisplay.sv(34): (vlog-2110) Illegal reference to net "HEX0".
+# ** Error: ./ledDisplay.sv(38): (vlog-2110) Illegal reference to net "HEX5".
+# ** Error: ./ledDisplay.sv(39): (vlog-2110) Illegal reference to net "HEX4".
+# ** Error: ./ledDisplay.sv(40): (vlog-2110) Illegal reference to net "HEX3".
+# ** Error: ./ledDisplay.sv(41): (vlog-2110) Illegal reference to net "HEX2".
+# ** Error: ./ledDisplay.sv(42): (vlog-2110) Illegal reference to net "HEX1".
+# ** Error: ./ledDisplay.sv(43): (vlog-2110) Illegal reference to net "HEX0".
+# ** Error: ./ledDisplay.sv(47): (vlog-2110) Illegal reference to net "HEX5".
+# ** Error: ./ledDisplay.sv(48): (vlog-2110) Illegal reference to net "HEX4".
+# ** Error: ./ledDisplay.sv(49): (vlog-2110) Illegal reference to net "HEX3".
+# ** Error: ./ledDisplay.sv(50): (vlog-2110) Illegal reference to net "HEX2".
+# ** Error: ./ledDisplay.sv(51): (vlog-2110) Illegal reference to net "HEX1".
+# ** Error: ./ledDisplay.sv(52): (vlog-2110) Illegal reference to net "HEX0".
+# ** Error: ./ledDisplay.sv(56): (vlog-2110) Illegal reference to net "HEX5".
+# ** Error: ./ledDisplay.sv(57): (vlog-2110) Illegal reference to net "HEX4".
+# ** Error: ./ledDisplay.sv(58): (vlog-2110) Illegal reference to net "HEX3".
+# ** Error: ./ledDisplay.sv(59): (vlog-2110) Illegal reference to net "HEX2".
+# ** Error: ./ledDisplay.sv(60): (vlog-2110) Illegal reference to net "HEX1".
+# ** Error: ./ledDisplay.sv(61): (vlog-2110) Illegal reference to net "HEX0".
+# ** Error: ./ledDisplay.sv(65): (vlog-2110) Illegal reference to net "HEX5".
+# ** Error: ./ledDisplay.sv(66): (vlog-2110) Illegal reference to net "HEX4".
+# ** Error: ./ledDisplay.sv(67): (vlog-2110) Illegal reference to net "HEX3".
+# ** Error: ./ledDisplay.sv(68): (vlog-2110) Illegal reference to net "HEX2".
+# ** Error: ./ledDisplay.sv(69): (vlog-2110) Illegal reference to net "HEX1".
+# ** Error: ./ledDisplay.sv(70): (vlog-2110) Illegal reference to net "HEX0".
+# ** Error: ./ledDisplay.sv(74): (vlog-2110) Illegal reference to net "HEX5".
+# ** Error: ./ledDisplay.sv(75): (vlog-2110) Illegal reference to net "HEX4".
+# ** Error: ./ledDisplay.sv(76): (vlog-2110) Illegal reference to net "HEX3".
+# ** Error: ./ledDisplay.sv(77): (vlog-2110) Illegal reference to net "HEX2".
+# ** Error: ./ledDisplay.sv(78): (vlog-2110) Illegal reference to net "HEX1".
+# ** Error: ./ledDisplay.sv(79): (vlog-2110) Illegal reference to net "HEX0".
+# ** Error: ./ledDisplay.sv(82): (vlog-2110) Illegal reference to net "HEX5".
+# ** Error: ./ledDisplay.sv(83): (vlog-2110) Illegal reference to net "HEX4".
+# ** Error: ./ledDisplay.sv(84): (vlog-2110) Illegal reference to net "HEX3".
+# ** Error: ./ledDisplay.sv(85): (vlog-2110) Illegal reference to net "HEX2".
+# ** Error: ./ledDisplay.sv(86): (vlog-2110) Illegal reference to net "HEX1".
+# ** Error: ./ledDisplay.sv(87): (vlog-2110) Illegal reference to net "HEX0".
+# End time: 17:08:25 on May 29,2024, Elapsed time: 0:00:01
+# Errors: 54, Warnings: 0
+# ** Error: C:/intelFPGA_lite/17.0/modelsim_ase/win32aloem/vlog failed.
+# Error in macro ./runlab.do line 12
+# C:/intelFPGA_lite/17.0/modelsim_ase/win32aloem/vlog failed.
+#     while executing
+# "vlog "./ledDisplay.sv""

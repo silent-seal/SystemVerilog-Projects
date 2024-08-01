@@ -1,0 +1,509 @@
+# Reading C:/intelFPGA_lite/17.0/modelsim_ase/tcl/vsim/pref.tcl
+do runlab.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 13:28:44 on May 08,2024
+# vlog -reportprogress 300 ./DE1_SoC.sv 
+# -- Compiling module DE1_SoC
+# -- Compiling module DE1_SoC_testbench
+# 
+# Top level modules:
+# 	DE1_SoC_testbench
+# End time: 13:28:44 on May 08,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 13:28:44 on May 08,2024
+# vlog -reportprogress 300 ./centerLight.sv 
+# -- Compiling module centerLight
+# -- Compiling module centerLight_testbench
+# 
+# Top level modules:
+# 	centerLight_testbench
+# End time: 13:28:45 on May 08,2024, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 13:28:45 on May 08,2024
+# vlog -reportprogress 300 ./clock_divider.sv 
+# -- Compiling module clock_divider
+# 
+# Top level modules:
+# 	clock_divider
+# End time: 13:28:45 on May 08,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 13:28:45 on May 08,2024
+# vlog -reportprogress 300 ./normalLight.sv 
+# -- Compiling module normalLight
+# -- Compiling module normalLight_testbench
+# 
+# Top level modules:
+# 	normalLight_testbench
+# End time: 13:28:46 on May 08,2024, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 13:28:46 on May 08,2024
+# vlog -reportprogress 300 ./userInput.sv 
+# -- Compiling module userInput
+# -- Compiling module userInput_testbench
+# 
+# Top level modules:
+# 	userInput_testbench
+# End time: 13:28:46 on May 08,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 13:28:46 on May 08,2024
+# vlog -reportprogress 300 ./twoFF.sv 
+# -- Compiling module twoFF
+# 
+# Top level modules:
+# 	twoFF
+# End time: 13:28:47 on May 08,2024, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 13:28:47 on May 08,2024
+# vlog -reportprogress 300 ./victory.sv 
+# -- Compiling module victory
+# -- Compiling module victory_testbench
+# 
+# Top level modules:
+# 	victory_testbench
+# End time: 13:28:47 on May 08,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# .main_pane.wave.interior.cs.body.pw.wf
+# .main_pane.objects.interior.cs.body.tree
+# ** Error: No Design Loaded!
+# Error in macro ./runlab.do line 36
+# No Design Loaded!
+#     while executing
+# "run -all"
+do runlab.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 13:29:17 on May 08,2024
+# vlog -reportprogress 300 ./DE1_SoC.sv 
+# -- Compiling module DE1_SoC
+# -- Compiling module DE1_SoC_testbench
+# 
+# Top level modules:
+# 	DE1_SoC_testbench
+# End time: 13:29:18 on May 08,2024, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 13:29:18 on May 08,2024
+# vlog -reportprogress 300 ./centerLight.sv 
+# -- Compiling module centerLight
+# -- Compiling module centerLight_testbench
+# 
+# Top level modules:
+# 	centerLight_testbench
+# End time: 13:29:19 on May 08,2024, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 13:29:19 on May 08,2024
+# vlog -reportprogress 300 ./clock_divider.sv 
+# -- Compiling module clock_divider
+# 
+# Top level modules:
+# 	clock_divider
+# End time: 13:29:19 on May 08,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 13:29:20 on May 08,2024
+# vlog -reportprogress 300 ./normalLight.sv 
+# -- Compiling module normalLight
+# -- Compiling module normalLight_testbench
+# 
+# Top level modules:
+# 	normalLight_testbench
+# End time: 13:29:20 on May 08,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 13:29:20 on May 08,2024
+# vlog -reportprogress 300 ./userInput.sv 
+# -- Compiling module userInput
+# -- Compiling module userInput_testbench
+# 
+# Top level modules:
+# 	userInput_testbench
+# End time: 13:29:21 on May 08,2024, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 13:29:21 on May 08,2024
+# vlog -reportprogress 300 ./twoFF.sv 
+# -- Compiling module twoFF
+# 
+# Top level modules:
+# 	twoFF
+# End time: 13:29:21 on May 08,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 13:29:21 on May 08,2024
+# vlog -reportprogress 300 ./victory.sv 
+# -- Compiling module victory
+# -- Compiling module victory_testbench
+# 
+# Top level modules:
+# 	victory_testbench
+# End time: 13:29:21 on May 08,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vsim -voptargs=""+acc"" -t 1ps -lib work DE1_SoC_testbench 
+# Start time: 13:29:22 on May 08,2024
+# Loading sv_std.std
+# Loading work.DE1_SoC_testbench
+# Loading work.DE1_SoC
+# Loading work.clock_divider
+# Loading work.twoFF
+# Loading work.userInput
+# Loading work.normalLight
+# Loading work.centerLight
+# Loading work.victory
+# ** Warning: (vsim-3015) ./DE1_SoC.sv(47): [PCDPC] - Port size (1) does not match connection size (32) for port 'NR'. The port definition is at: ./normalLight.sv(1).
+#    Time: 0 ps  Iteration: 0  Instance: /DE1_SoC_testbench/dut/one File: ./normalLight.sv
+# ** Warning: (vsim-3015) ./DE1_SoC.sv(55): [PCDPC] - Port size (1) does not match connection size (32) for port 'NL'. The port definition is at: ./normalLight.sv(1).
+#    Time: 0 ps  Iteration: 0  Instance: /DE1_SoC_testbench/dut/nine File: ./normalLight.sv
+# ** Warning: (vsim-WLF-5000) WLF file currently in use: vsim.wlf
+#           File in use by: jjhgr  Hostname: JUNWIN  ProcessID: 9600
+#           Attempting to use alternate WLF file "./wlftrj8y9b".
+# ** Warning: (vsim-WLF-5001) Could not open WLF file: vsim.wlf
+#           Using alternate file: ./wlftrj8y9b
+# .main_pane.wave.interior.cs.body.pw.wf
+# .main_pane.structure.interior.cs.body.struct
+# .main_pane.objects.interior.cs.body.tree
+# ** Note: $stop    : ./DE1_SoC.sv(231)
+#    Time: 14450 ps  Iteration: 1  Instance: /DE1_SoC_testbench
+# Break in Module DE1_SoC_testbench at ./DE1_SoC.sv line 231
+do runlab.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 13:34:23 on May 08,2024
+# vlog -reportprogress 300 ./DE1_SoC.sv 
+# -- Compiling module DE1_SoC
+# -- Compiling module DE1_SoC_testbench
+# 
+# Top level modules:
+# 	DE1_SoC_testbench
+# End time: 13:34:23 on May 08,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 13:34:23 on May 08,2024
+# vlog -reportprogress 300 ./centerLight.sv 
+# -- Compiling module centerLight
+# -- Compiling module centerLight_testbench
+# 
+# Top level modules:
+# 	centerLight_testbench
+# End time: 13:34:24 on May 08,2024, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 13:34:24 on May 08,2024
+# vlog -reportprogress 300 ./clock_divider.sv 
+# -- Compiling module clock_divider
+# 
+# Top level modules:
+# 	clock_divider
+# End time: 13:34:24 on May 08,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 13:34:24 on May 08,2024
+# vlog -reportprogress 300 ./normalLight.sv 
+# -- Compiling module normalLight
+# -- Compiling module normalLight_testbench
+# 
+# Top level modules:
+# 	normalLight_testbench
+# End time: 13:34:24 on May 08,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 13:34:24 on May 08,2024
+# vlog -reportprogress 300 ./userInput.sv 
+# -- Compiling module userInput
+# -- Compiling module userInput_testbench
+# 
+# Top level modules:
+# 	userInput_testbench
+# End time: 13:34:25 on May 08,2024, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 13:34:26 on May 08,2024
+# vlog -reportprogress 300 ./twoFF.sv 
+# -- Compiling module twoFF
+# 
+# Top level modules:
+# 	twoFF
+# End time: 13:34:26 on May 08,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 13:34:26 on May 08,2024
+# vlog -reportprogress 300 ./victory.sv 
+# -- Compiling module victory
+# -- Compiling module victory_testbench
+# 
+# Top level modules:
+# 	victory_testbench
+# End time: 13:34:26 on May 08,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# End time: 13:34:28 on May 08,2024, Elapsed time: 0:05:06
+# Errors: 0, Warnings: 4
+# vsim -voptargs=""+acc"" -t 1ps -lib work DE1_SoC_testbench 
+# Start time: 13:34:28 on May 08,2024
+# Loading sv_std.std
+# Loading work.DE1_SoC_testbench
+# Loading work.DE1_SoC
+# Loading work.clock_divider
+# Loading work.twoFF
+# Loading work.userInput
+# Loading work.normalLight
+# Loading work.centerLight
+# Loading work.victory
+# ** Warning: (vsim-3015) ./DE1_SoC.sv(47): [PCDPC] - Port size (1) does not match connection size (32) for port 'NR'. The port definition is at: ./normalLight.sv(1).
+#    Time: 0 ps  Iteration: 0  Instance: /DE1_SoC_testbench/dut/one File: ./normalLight.sv
+# ** Warning: (vsim-3015) ./DE1_SoC.sv(55): [PCDPC] - Port size (1) does not match connection size (32) for port 'NL'. The port definition is at: ./normalLight.sv(1).
+#    Time: 0 ps  Iteration: 0  Instance: /DE1_SoC_testbench/dut/nine File: ./normalLight.sv
+# ** Warning: (vsim-WLF-5000) WLF file currently in use: vsim.wlf
+#           File in use by: jjhgr  Hostname: JUNWIN  ProcessID: 9600
+#           Attempting to use alternate WLF file "./wlft6v81zq".
+# ** Warning: (vsim-WLF-5001) Could not open WLF file: vsim.wlf
+#           Using alternate file: ./wlft6v81zq
+# .main_pane.wave.interior.cs.body.pw.wf
+# .main_pane.structure.interior.cs.body.struct
+# .main_pane.objects.interior.cs.body.tree
+# ** Note: $stop    : ./DE1_SoC.sv(231)
+#    Time: 14450 ps  Iteration: 1  Instance: /DE1_SoC_testbench
+# Break in Module DE1_SoC_testbench at ./DE1_SoC.sv line 231
+do runlab.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 13:36:51 on May 08,2024
+# vlog -reportprogress 300 ./DE1_SoC.sv 
+# -- Compiling module DE1_SoC
+# -- Compiling module DE1_SoC_testbench
+# 
+# Top level modules:
+# 	DE1_SoC_testbench
+# End time: 13:36:52 on May 08,2024, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 13:36:52 on May 08,2024
+# vlog -reportprogress 300 ./centerLight.sv 
+# -- Compiling module centerLight
+# -- Compiling module centerLight_testbench
+# 
+# Top level modules:
+# 	centerLight_testbench
+# End time: 13:36:52 on May 08,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 13:36:52 on May 08,2024
+# vlog -reportprogress 300 ./clock_divider.sv 
+# -- Compiling module clock_divider
+# 
+# Top level modules:
+# 	clock_divider
+# End time: 13:36:53 on May 08,2024, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 13:36:53 on May 08,2024
+# vlog -reportprogress 300 ./normalLight.sv 
+# -- Compiling module normalLight
+# -- Compiling module normalLight_testbench
+# 
+# Top level modules:
+# 	normalLight_testbench
+# End time: 13:36:53 on May 08,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 13:36:53 on May 08,2024
+# vlog -reportprogress 300 ./userInput.sv 
+# -- Compiling module userInput
+# -- Compiling module userInput_testbench
+# 
+# Top level modules:
+# 	userInput_testbench
+# End time: 13:36:54 on May 08,2024, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 13:36:54 on May 08,2024
+# vlog -reportprogress 300 ./twoFF.sv 
+# -- Compiling module twoFF
+# 
+# Top level modules:
+# 	twoFF
+# End time: 13:36:54 on May 08,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 13:36:54 on May 08,2024
+# vlog -reportprogress 300 ./victory.sv 
+# -- Compiling module victory
+# ** Error: (vlog-13069) ./victory.sv(23): near "if": syntax error, unexpected if.
+# -- Compiling module victory_testbench
+# End time: 13:36:54 on May 08,2024, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 0
+# ** Error: C:/intelFPGA_lite/17.0/modelsim_ase/win32aloem/vlog failed.
+# Error in macro ./runlab.do line 14
+# C:/intelFPGA_lite/17.0/modelsim_ase/win32aloem/vlog failed.
+#     while executing
+# "vlog "./victory.sv""
+do runlab.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 13:38:45 on May 08,2024
+# vlog -reportprogress 300 ./DE1_SoC.sv 
+# -- Compiling module DE1_SoC
+# -- Compiling module DE1_SoC_testbench
+# 
+# Top level modules:
+# 	DE1_SoC_testbench
+# End time: 13:38:45 on May 08,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 13:38:45 on May 08,2024
+# vlog -reportprogress 300 ./centerLight.sv 
+# -- Compiling module centerLight
+# -- Compiling module centerLight_testbench
+# 
+# Top level modules:
+# 	centerLight_testbench
+# End time: 13:38:46 on May 08,2024, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 13:38:46 on May 08,2024
+# vlog -reportprogress 300 ./clock_divider.sv 
+# -- Compiling module clock_divider
+# 
+# Top level modules:
+# 	clock_divider
+# End time: 13:38:47 on May 08,2024, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 13:38:47 on May 08,2024
+# vlog -reportprogress 300 ./normalLight.sv 
+# -- Compiling module normalLight
+# -- Compiling module normalLight_testbench
+# 
+# Top level modules:
+# 	normalLight_testbench
+# End time: 13:38:47 on May 08,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 13:38:47 on May 08,2024
+# vlog -reportprogress 300 ./userInput.sv 
+# -- Compiling module userInput
+# -- Compiling module userInput_testbench
+# 
+# Top level modules:
+# 	userInput_testbench
+# End time: 13:38:48 on May 08,2024, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 13:38:48 on May 08,2024
+# vlog -reportprogress 300 ./twoFF.sv 
+# -- Compiling module twoFF
+# 
+# Top level modules:
+# 	twoFF
+# End time: 13:38:48 on May 08,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 13:38:48 on May 08,2024
+# vlog -reportprogress 300 ./victory.sv 
+# -- Compiling module victory
+# ** Error: (vlog-13069) ./victory.sv(32): near "if": syntax error, unexpected if.
+# ** Error: (vlog-13069) ./victory.sv(39): near "endcase": syntax error, unexpected endcase.
+# ** Error: ./victory.sv(35): 'pR' already exists; must not be redefined as a named block
+# ** Error: ./victory.sv(37): 'pL' already exists; must not be redefined as a named block
+# -- Compiling module victory_testbench
+# End time: 13:38:49 on May 08,2024, Elapsed time: 0:00:01
+# Errors: 4, Warnings: 0
+# ** Error: C:/intelFPGA_lite/17.0/modelsim_ase/win32aloem/vlog failed.
+# Error in macro ./runlab.do line 14
+# C:/intelFPGA_lite/17.0/modelsim_ase/win32aloem/vlog failed.
+#     while executing
+# "vlog "./victory.sv""
+do runlab.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 13:39:23 on May 08,2024
+# vlog -reportprogress 300 ./DE1_SoC.sv 
+# -- Compiling module DE1_SoC
+# -- Compiling module DE1_SoC_testbench
+# 
+# Top level modules:
+# 	DE1_SoC_testbench
+# End time: 13:39:23 on May 08,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 13:39:23 on May 08,2024
+# vlog -reportprogress 300 ./centerLight.sv 
+# -- Compiling module centerLight
+# -- Compiling module centerLight_testbench
+# 
+# Top level modules:
+# 	centerLight_testbench
+# End time: 13:39:24 on May 08,2024, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 13:39:24 on May 08,2024
+# vlog -reportprogress 300 ./clock_divider.sv 
+# -- Compiling module clock_divider
+# 
+# Top level modules:
+# 	clock_divider
+# End time: 13:39:24 on May 08,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 13:39:24 on May 08,2024
+# vlog -reportprogress 300 ./normalLight.sv 
+# -- Compiling module normalLight
+# -- Compiling module normalLight_testbench
+# 
+# Top level modules:
+# 	normalLight_testbench
+# End time: 13:39:25 on May 08,2024, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 13:39:25 on May 08,2024
+# vlog -reportprogress 300 ./userInput.sv 
+# -- Compiling module userInput
+# -- Compiling module userInput_testbench
+# 
+# Top level modules:
+# 	userInput_testbench
+# End time: 13:39:25 on May 08,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 13:39:25 on May 08,2024
+# vlog -reportprogress 300 ./twoFF.sv 
+# -- Compiling module twoFF
+# 
+# Top level modules:
+# 	twoFF
+# End time: 13:39:26 on May 08,2024, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 13:39:26 on May 08,2024
+# vlog -reportprogress 300 ./victory.sv 
+# -- Compiling module victory
+# -- Compiling module victory_testbench
+# 
+# Top level modules:
+# 	victory_testbench
+# End time: 13:39:27 on May 08,2024, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# End time: 13:39:29 on May 08,2024, Elapsed time: 0:05:01
+# Errors: 11, Warnings: 4
+# vsim -voptargs=""+acc"" -t 1ps -lib work victory_testbench 
+# Start time: 13:39:29 on May 08,2024
+# Loading sv_std.std
+# Loading work.victory_testbench
+# Loading work.victory
+# ** Warning: (vsim-WLF-5000) WLF file currently in use: vsim.wlf
+#           File in use by: jjhgr  Hostname: JUNWIN  ProcessID: 9600
+#           Attempting to use alternate WLF file "./wlfta9vnm5".
+# ** Warning: (vsim-WLF-5001) Could not open WLF file: vsim.wlf
+#           Using alternate file: ./wlfta9vnm5
+# .main_pane.wave.interior.cs.body.pw.wf
+# .main_pane.structure.interior.cs.body.struct
+# .main_pane.objects.interior.cs.body.tree
+# ** Note: $stop    : ./victory.sv(133)
+#    Time: 5650 ps  Iteration: 1  Instance: /victory_testbench
+# Break in Module victory_testbench at ./victory.sv line 133
